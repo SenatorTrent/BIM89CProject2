@@ -1,0 +1,3 @@
+[fighter] flings a textbook of [course] at the opponent and said, "you will regret having taken this course!"
+[fighter] peeks at your returned midterm in [course] and asked wryly, "what is your score on the midterm?"
+[fighter] loudly answered a question from a professor in [course] and tried to impress the opponent.
